@@ -1,7 +1,7 @@
 # obesity_model (WIP)
 
 # Obesidad: Factores Determinantes
-This project is part of the requirements for completion of the DS Bootcamp from CoderHouse. 
+This repository contains the final project for the Data Science Bootcamp at CoderHouse, focused on analyzing factors that determine obesity predisposition. The project spans six months and includes data analysis, feature engineering, model training, and results presentation.
 
 ## Context
 Obesity and overweight are challenging health problems with potentially multifactorial causes. 
@@ -18,3 +18,11 @@ family history of overweight, among other factors. Measurements were taken for b
 ## Dataset:
 The dataset includes records of: weight, height, dietary habits, frequency of physical activity, family history of overweight, among others. 
 Additionally, columns for BMI (Body Mass Index) and weight category were created (total columns: 17, rows: 2111).
+
+## Directory Structure
+
+- **data/**: Contains raw and cleaned datasets.
+- **notebooks/**: Jupyter notebooks with exploratory data analysis, feature engineering, and model training.
+- **presentations/**: PowerPoint presentation summarizing the findings.
+- **scripts/**: Python scripts for data processing and model training.
+- **results/**: Visualizations and metrics resulting from the analysis.
