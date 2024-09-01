@@ -21,8 +21,8 @@ Additionally, columns for BMI (Body Mass Index) and weight category were created
 
 ## Directory Structure
 
-- **data/**: Contains raw and cleaned datasets.
-- **notebooks/**: Jupyter notebooks with exploratory data analysis, feature engineering, and model training.
-- **presentations/**: PowerPoint presentation summarizing the findings.
-- **scripts/**: Python scripts for data processing and model training.
-- **results/**: Visualizations and metrics resulting from the analysis.
+- **data**: Contains raw and cleaned datasets.
+- **notebooks**: Jupyter notebooks with exploratory data analysis, feature engineering, and model training.
+- **presentations**: PowerPoint presentation summarizing the findings.
+- **scripts**: Python scripts for data processing and model training.
+- **results**: Visualizations and metrics resulting from the analysis.
