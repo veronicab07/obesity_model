@@ -1,6 +1,6 @@
 # obesity_model (WIP)
 
-# Obesidad: Factores Determinantes
+# Obesity: Determining Factors
 This repository contains the final project for the Data Science Bootcamp at CoderHouse, focused on analyzing factors that determine obesity predisposition. The project spans six months and includes data analysis, feature engineering, model training, and results presentation.
 
 ## Context
