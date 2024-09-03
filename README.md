@@ -1,7 +1,8 @@
 # obesity_model (WIP)
+This presentation is the culmination of a six-month capstone data science project completed with CoderHouse.
 
 # Obesity: Determining Factors
-This repository contains the final project for the Data Science Bootcamp at CoderHouse, focused on analyzing factors that determine obesity predisposition. The project spans six months and includes data analysis, feature engineering, model training, and results presentation.
+This repository contains the final project for the Data Science Bootcamp at CoderHouse, focused on analyzing factors that determine obesity predisposition. It includes data analysis, feature engineering, model training, and results presentation.
 
 ## Context
 Obesity and overweight are challenging health problems with potentially multifactorial causes. 
